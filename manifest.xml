@@ -1,0 +1,16 @@
+<package>
+  <description brief="sitl_ipc">
+
+     sitl_ipc
+
+  </description>
+  <author>stsc</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/sitl_ipc</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+</package>
+
+
